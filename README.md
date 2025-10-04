@@ -1,3 +1,5 @@
+![Portada del repositorio](./Intro.png)
+
 # 🎮 Unity 2D Tutorials
 
 Bienvenido a este repositorio de **tutoriales paso a paso con Unity 2D**.  
@@ -11,7 +13,7 @@ TUTORIALS_2D/
 │
 ├── README.md               # Este archivo
 └── tutorials/              # Carpeta principal de tutoriales
-    ├── Tutorial-01-MovimientoBasico/
+    ├── Tutorial01/
     │   ├── README.md       # Explicación del tutorial paso a paso
     │   ├── src/            # Scripts C# del tutorial
     │   ├── Assets/         # Sprites/tilesets creados para el tutorial
@@ -55,7 +57,7 @@ En cada tutorial encontrarás:
 
 ## 🖼️ Ejemplo visual
 
-![Demo Movimiento Básico](./tutorials/Tutorial1/progress/Tutorial1.gif)
+![Demo Movimiento Básico](./tutorials/Tutorial01/progress/Tutorial1.gif)
 
 ---
 
