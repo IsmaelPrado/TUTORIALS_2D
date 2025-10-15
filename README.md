@@ -31,10 +31,10 @@ En cada tutorial encontrarás:
 ---
 
 ## 📚 Lista de tutoriales
-| N° | Tutorial | Descripción | Enlace |
-|----|----------|-------------|--------|
-| 01 | Movimiento Básico | Aprende a mover un personaje en 2D con C# y teclado. | [Ir al tutorial](./tutorials/Tutorial01/) |
-| 02 | Movimiento en los 4 sentidos | Aprende a mover a un personaje en los 4 sentido posibles (arriba, abajo, izquierda, derecha) y a crear el escenario donde caminará tipo pokemon | [Ir al tutorial](./tutorials/Tutorial02/) |
+| N° | Tutorial | Descripción | Assets | Video |
+|----|----------|-------------|--------|-------|
+| 01 | Movimiento Básico | Aprende a mover un personaje en 2D con C# y teclado. | [Ver assets](./tutorials/Tutorial01/Assets/) | [Ver video](./tutorials/Tutorial01/progress/Tutorial1.gif)
+| 02 | Movimiento en los 4 sentidos | Aprende a mover a un personaje en los 4 sentido posibles (arriba, abajo, izquierda, derecha) y a crear el escenario donde caminará tipo pokemon | [Ver assets](./tutorials/Tutorial02/Assets/) | [Ver video](./tutorials/Tutorial02/progress/Tutorial2.gif)
 
 ---
 
