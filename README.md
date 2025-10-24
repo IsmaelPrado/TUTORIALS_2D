@@ -1,4 +1,4 @@
-![Portada del repositorio](./Intro.png)
+![Portada del repositorio](./Intro.jpeg)
 
 # 🎮 Unity 2D Tutorials
 
