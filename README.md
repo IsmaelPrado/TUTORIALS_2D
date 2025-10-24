@@ -31,12 +31,14 @@ En cada tutorial encontrarás:
 ---
 
 ## 📚 Lista de tutoriales
-| N° | Tutorial | Descripción | Assets | Video |
-|----|----------|-------------|--------|-------|
-| 01 | Movimiento Básico | Aprende a mover un personaje en 2D con C# y teclado. | [Ver assets](./tutorials/Tutorial01/Assets/) | ![Ver video](./tutorials/Tutorial01/progress/Tutorial1.gif)
-| 02 | Movimiento en los 4 sentidos | Aprende a mover a un personaje en los 4 sentido posibles (arriba, abajo, izquierda, derecha) y a crear el escenario donde caminará tipo pokemon | [Ver assets](./tutorials/Tutorial02/Assets/) | ![Ver video](./tutorials/Tutorial02/progress/Tutorial2.gif)
+| N° | Tutorial | Descripción | Assets | Evidencia (Drive) | Video |
+|----|-----------|--------------|---------|-------------------|--------|
+| 01 | Movimiento Básico | Aprende a mover un personaje en 2D con C# y teclado. | [Ver assets](./tutorials/Tutorial01/Assets/) | [Ver evidencia](https://docs.google.com/document/d/1rajmfc6_VqJ3MDFOHAi8JDgdB_-ZR7ciVFqc5FSHy3U/edit?usp=drive_link) | <img src="./tutorials/Tutorial01/progress/Tutorial1.gif" width="250"> |
+| 02 | Movimiento en los 4 sentidos | Aprende a mover a un personaje en los 4 sentidos posibles (arriba, abajo, izquierda, derecha) y a crear el escenario donde caminará tipo Pokémon. | [Ver assets](./tutorials/Tutorial02/Assets/) | [Ver evidencia](https://docs.google.com/document/d/1Ac7jH4mzJAK94ypCZhUTXD-s_ayeHs3OW6q93BsaG1Y/edit?usp=sharing) | <img src="./tutorials/Tutorial02/progress/Tutorial2.gif" width="250"> |
+| 03 | Animaciones de movimiento | Aprende a animar los movimientos del jugador (arriba, abajo, izquierda y derecha). | [Ver assets](./tutorials/Tutorial03/Assets/) | [Ver evidencia](https://docs.google.com/document/d/1Ac7jH4mzJAK94ypCZhUTXD-s_ayeHs3OW6q93BsaG1Y/edit?usp=sharing) | <img src="./tutorials/Tutorial03/progress/Tutorial3.gif" width="250"> |
 
 ---
+
 
 ## 🛠️ Requisitos
 - [Unity Hub](https://unity.com/download) con Unity 2021 o superior.  
