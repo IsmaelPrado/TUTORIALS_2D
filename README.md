@@ -38,7 +38,7 @@ En cada tutorial encontrarás:
 | 03 | Animaciones de movimiento | Aprende a animar los movimientos del jugador (arriba, abajo, izquierda y derecha). | [Ver assets](./tutorials/Tutorial03/Assets/) | [Ver evidencia](https://docs.google.com/document/d/1Ac7jH4mzJAK94ypCZhUTXD-s_ayeHs3OW6q93BsaG1Y/edit?usp=sharing) | <img src="./tutorials/Tutorial03/progress/Tutorial3.gif" width="250"> |
 |04  | Agregando colisiones | Aprende a agregar objetos con colisión para que el player no los traspase (casas) |  [Ver assets](./tutorials/Tutorial04/Assets/) | [Ver evidencia](https://docs.google.com/document/d/1XLJPkiWufb7MA0oUZD_3fvJZeX_KmQfuHL6AjOG5UTA/edit?usp=sharing) |  <img src="./tutorials/Tutorial04/progress/Tutorial4.gif" width="250"> |
 | 05 | Agregando césped y lógica de enfrentamiento random | Aprende a agregar pasto en el fondo y a agregarle la lógica para que en cuando el player camine en el, haya "enfrentamiento" o encuentro de pokemon random | [Ver assets](./tutorials/Tutorial05/Assets/) |  [Ver evidencia](https://docs.google.com/document/d/16u4nnAhEKgCY9cmAycQwzktq8kfyoHZb2cOFYFcl0Y4/edit?usp=sharing) | <img src="./tutorials/Tutorial05/progress/Tutorial5.gif" width="250">
-
+| 06 | Script para la instancia de pokemons y stats | Aprende a crear los scripts para instanciar pokemons y a crear tus primeros dos pokemon con sus stats | [Ver assets](./tutorials/Tutorial06/Assets/) | [Ver evidencia](https://docs.google.com/document/d/11FfNeG7fDzOCwIIdsnmapcKrbZnXVqXYqGaJVnuYEfs/edit?usp=sharing) | <img src="./tutorials/Tutorial06/progress/Tutorial6.gif" width="250">
 
 ---
 
